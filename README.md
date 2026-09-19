@@ -27,6 +27,7 @@ Readiness Reporting — Generates insights into an employee's progress and demon
 
 
 👩‍💻 Team
+
 Lamar Alharbi — Knowledge Base(DataBase)
 
 Dalia Albarag — Backend
