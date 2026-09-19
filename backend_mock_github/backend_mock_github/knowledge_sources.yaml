@@ -1,0 +1,7 @@
+knowledge_sources:
+  - path: knowledge_base/finance_policies
+    category: finance_policy
+    access_level: internal
+  - path: knowledge_base/training_materials
+    category: training
+    access_level: internal
